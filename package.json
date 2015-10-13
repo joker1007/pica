@@ -27,7 +27,7 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "webworkify": "1.0.0"
+    "webworkify": "joker1007/webworkify#use-revokeObjectURL"
   },
   "devDependencies": {
     "browserify": "*",
